@@ -1,0 +1,64 @@
+body {
+  overflow-x: hidden;
+}
+.H2 {
+  text-align: center;
+}
+.header-image {
+  display: block;
+  width: 44px;
+  height: auto;
+}
+.co-1 {
+  display: flex;
+}
+.container,
+.container-fluid,
+.container-xxl,
+.container-xl,
+.container-lg,
+.container-md,
+.container-sm {
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3rem;
+}
+.rounded {
+  box-shadow: 0 13px 27px -5px hsl(240deg 30% 28% / 25%),
+    0 8px 16px -8px hsl(0deg 0% 0% / 30%), 0 -6px 16px -6px hsl(0deg 0% 0% / 3%);
+}
+.second {
+  background: hsl(218deg 57% 97%);
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+}
+.alert-light .alert-link {
+  color: blue;
+  margin: auto;
+}
+.alert-dark .alert-link {
+  color: blue;
+  margin: auto;
+}
+.fP {
+  text-align: center;
+}
+.two {
+  padding: 1rem;
+}
+.three {
+  padding-top: 3rem;
+}
+.para {
+  text-decoration: none;
+}
+footer {
+  padding-bottom: 3rem;
+}
+.ani {
+  transform-origin: center;
+  object-fit: cover;
+}
